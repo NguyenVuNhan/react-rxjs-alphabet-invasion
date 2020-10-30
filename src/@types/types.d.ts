@@ -2,6 +2,7 @@ interface Letter {
   letter: string;
   x: number;
   y: number;
+  classes?: Object;
 }
 
 interface Letters {

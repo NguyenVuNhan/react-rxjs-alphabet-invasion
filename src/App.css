@@ -13,7 +13,16 @@
   position: relative;
   border-radius: 50%;
   background-color: white;
-  width: 20px;
-  height: 20px;
   text-align: center;
+}
+
+.start-bubble {
+  margin-left: -50px;
+  width: 100px !important;
+  border-radius: 0px;
+}
+
+.current-bubble {
+  background-color: red;
+  color: white;
 }
