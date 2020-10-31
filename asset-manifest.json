@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-rxjs-alphabet-invasion/static/css/main.b682ef40.chunk.css",
-    "main.js": "/react-rxjs-alphabet-invasion/static/js/main.757dcca6.chunk.js",
-    "main.js.map": "/react-rxjs-alphabet-invasion/static/js/main.757dcca6.chunk.js.map",
+    "main.js": "/react-rxjs-alphabet-invasion/static/js/main.c416d1f9.chunk.js",
+    "main.js.map": "/react-rxjs-alphabet-invasion/static/js/main.c416d1f9.chunk.js.map",
     "runtime-main.js": "/react-rxjs-alphabet-invasion/static/js/runtime-main.cf9b4121.js",
     "runtime-main.js.map": "/react-rxjs-alphabet-invasion/static/js/runtime-main.cf9b4121.js.map",
     "static/js/2.e6aa8552.chunk.js": "/react-rxjs-alphabet-invasion/static/js/2.e6aa8552.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.cf9b4121.js",
     "static/js/2.e6aa8552.chunk.js",
     "static/css/main.b682ef40.chunk.css",
-    "static/js/main.757dcca6.chunk.js"
+    "static/js/main.c416d1f9.chunk.js"
   ]
 }
